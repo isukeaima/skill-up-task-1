@@ -1,0 +1,43 @@
+.navbar{
+  padding: 0rem;
+}
+
+.container, .container-fluid, .container-lg, .container-md, .container-sm, .container-xl, .container-xxl{
+  padding: 0rem;
+}
+
+.navbar>.container, .navbar>.container-fluid, .navbar>.container-lg, .navbar>.container-md, .navbar>.container-sm, .navbar>.container-xl, .navbar>.container-xxl{
+  background-color: #EC715F;
+}
+
+.navbar-light .navbar-nav .nav-link.active, .navbar-light .navbar-nav .show>.nav-link{
+  color: white;
+}
+
+.navbar-light .navbar-nav .nav-link{
+  color: white;
+}
+
+.navbar-nav{
+  padding-right: 30px;
+}
+
+.headerimg{
+  height: 70px;
+}
+
+.row{
+  background-image:url(img/mv.png);
+  height: 650px;
+  max-width: 100%;
+}
+
+.visual-title{
+  font-size: 64px;
+  color: #fafafa;
+}
+
+.visual-text{
+  font-size: 20px;
+  color: #fafafa;
+}
